@@ -1,0 +1,40 @@
+ls - lists at the right time page
+ 
+cd volume_name:/ - change directory
+
+mkdir new_folder_name -make new folder
+
+cd ./new_folder_name - open folder
+
+code . - open VS Code
+
+software_name --version - finding sofatware or not
+
+git init - git initialize
+ 
+New-Item file_name.(exe) - create file
+
+git status - check commit or not
+
+git add file_name - add commit file
+
+git add . - all files commited
+
+git commit -m "v1" - after add commit file to github cloud file
+
+git log - history
+
+git chekcout commit_address - shift commit
+
+git checkout master -lastest commit
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:alexpchin/<reponame>.git
+git push -u origin master
+##Push an existing repository from the command line
+
+git remote add origin git@github.com:alexpchin/<reponame>.git
+git push -u origin master
